@@ -90,7 +90,7 @@ SORT date ASC
 - [[Kulikalon-Alaudin Loop]] (the plan) · [[Seven Lakes (Haft Kul)]] (backup) · [[Chimtarga Base Camp]] (parked)
 
 ### Reference
-- [[05 Food & Culture]] · [[06 Phrases]] · [[08 Resources]]
+- [[05 Food & Culture]] · [[06 Phrases]] · [[History]] · [[08 Resources]]
 
 ---
 

@@ -46,10 +46,49 @@ tags: [logistics]
 - Pre-book taxi the night before (Yandex Go works in Tashkent) or hotel arranges
 - Pack the night before; nothing critical scheduled morning of departure
 
-## Fallback / no-go scenarios
+## TJ → UZ on Day 9: land vs fly — evaluated
 
-> [!warning] If the Sarazm/Jartepa border closes (Day 9)
-> Fallback plan: shared taxi or fly Khujand → Tashkent. Somon Air and Uzbekistan Airways both run Dushanbe ↔ Tashkent (~1h, $100–200, several days/week). Centrum Air also operates this route. Last-resort budget: $400 unplanned flights for two.
+The Day 9 trek-out → Samarkand transit can be done overland (current plan) or via one of two flight paths. We evaluated all three.
+
+### Option A — Land via Sarazm/Jartepa border (CURRENT PLAN)
+- Trek out → Penjikent (~5h) → border (45 min from Penjikent) → Samarkand (45 min from border)
+- Total: ~7h door-to-door from the trailhead
+- Cost: **~$20/person**
+- Border 24/7, no flight booking
+- Direction: continuous westward — no backtracking
+- Risk: border closure (rare since 2018 reopening; was closed nearly a decade post-USSR)
+
+### Option B — Fly via Khujand (LBD → TAS)
+- Trek out → Penjikent (~5h) → Khujand over **Shahristan Pass 3380m** (~4h) → overnight Khujand → fly LBD → TAS (1h, **not daily** — most days require a layover) → train TAS → Samarkand (2h)
+- Total: **2 days** (overnight in Khujand)
+- Cost: **~$130–180/person** (flight + Khujand hotel + train)
+- ⚠️ Shahristan Pass at 3380m — **same October snow concern as the trek**; if snow closes Alaudin, it'll likely close this too
+- ⚠️ Khujand-Tashkent direct flights aren't every day (Somon Air ~11/week, Ural Airlines 69/week but mostly via TAS layover routes — verify exact day)
+- Backtracks our westward direction (Khujand is north, Tashkent is north-northeast)
+
+### Option C — Fly via Dushanbe (DYU → TAS)
+- Trek out → Penjikent (~5h) → Dushanbe over Anzob Pass (~6h) → overnight Dushanbe → fly DYU → TAS (1h, Somon Air / Uzbekistan Airways / Centrum Air, $100–200) → train TAS → Samarkand (2h)
+- Total: **2 days** (overnight in Dushanbe)
+- Cost: **~$150–250/person** (flight + Dushanbe hotel + train)
+- Worst direction-wise: backtrack 240km east, fly 280km west, train 260km east
+
+### Verdict
+| | Time | Cost | Hassle |
+|---|---|---|---|
+| **Land (A)** | 7h | $20 | low — one shared taxi day |
+| Khujand (B) | 2 days | $150 | airport, snow risk on Shahristan |
+| Dushanbe (C) | 2 days | $200 | airport, full backtrack, costs a Dushanbe hotel |
+
+> [!tip] Recommendation
+> Land crossing is unambiguously the right call. It's faster, cheaper, scenic, and goes in the direction we're already moving. Flying is a **fallback only**, not a Plan B to weigh.
+
+### When to switch to flying
+- **Sarazm/Jartepa border closes** (geopolitics, rare). Check [Caravanistan border crossings](https://caravanistan.com/border-crossings/uzbekistan/) 2 weeks before departure.
+- **Trek runs long / one of us is incapacitated** — if Day 9 trek-out doesn't get us to Penjikent until evening, we miss border closing hours on rare bad days; sleep Penjikent, cross AM Day 10
+- **Carrying critical gear / time pressure** — not applicable to us
+
+> [!warning] Pre-trip check (~2 weeks before)
+> Confirm Sarazm/Jartepa is open and running normal hours. If closed, **Option B (Khujand) beats Option C (Dushanbe)** because we don't backtrack as far and Khujand is on the way out of Fann anyway. But check Shahristan Pass conditions — early snow can close it.
 
 ## Internal transport (planned)
 | Leg | Mode | Cost (per person, USD) | Duration | Status |

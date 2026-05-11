@@ -22,4 +22,4 @@ Trip-planning vault for a two-week Tajikistan + Uzbekistan trip, October 2026.
 [[Kulikalon-Alaudin Loop]] (planned) · [[Seven Lakes (Haft Kul)]] (backup) · [[Chimtarga Base Camp]] (parked)
 
 ### Reference
-[[05 Food & Culture]] · [[06 Phrases]] · [[08 Resources]]
+[[05 Food & Culture]] · [[06 Phrases]] · [[History]] · [[08 Resources]]
