@@ -167,16 +167,18 @@ Vertical Alauddin on day 5 for transit to Samarkand the same evening.
 What we'd like to book:
 - Horseman + pack horse for 5 days
 - Transport: Penjikent → Artuch (start), trailhead → Penjikent (finish)
-- Food provisioning support if you offer it, otherwise we'll handle in Penjikent
-- We do NOT need a full English-speaking guide (independent decision-making OK
-  given our experience), but happy to consider one if you recommend it for the
-  October weather window.
+- Food provisioning + cooking if you offer it, otherwise we'll handle in Penjikent
+- Tent(s) if you provide; otherwise we'll bring our own
+- We do NOT need a full English-speaking guide (we're both experienced mountain
+  travelers and the route is well-marked), but happy to consider one if you
+  recommend it for the October weather window.
 
 Please quote:
 1. Total cost USD for the above
-2. Cost for adding a full English-speaking guide
-3. Your read on October conditions for the Alaudin Pass (3860m)
-4. Recommended horseman for our group (any names + experience)
+2. What is and isn't included (tents, sleeping bags, cooking, food, water)
+3. Cost for adding a full English-speaking guide
+4. Your read on October conditions for the Alaudin Pass (3860m)
+5. Recommended horseman for our group (any names + experience)
 
 Available dates: Oct 4–9 or Oct 5–10. Flexible on start day within that window.
 

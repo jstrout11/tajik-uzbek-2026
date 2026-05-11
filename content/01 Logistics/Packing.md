@@ -8,82 +8,70 @@ tags: [logistics]
 
 # Packing
 
-October is the framing constraint: **Fann at the edge of season** (cold, possible snow on passes 3800m+) and **Uzbekistan in its best window** (15–25°C days, 10–15°C nights). Two travelers, one tent, shared logistics.
+Built for the **supported-trek scenario**: horseman carries bulk, operator provides tents + cooking. Confirm in your quote email — see [[Kulikalon-Alaudin Loop#Templated email]]. If they don't provide tent/cooking, scale up (notes at bottom).
 
-> [!warning] October Fann reality
-> Daytime in valleys ~10–15°C, nights at high camps **–5 to –10°C**, snow possible above 3500m on shaded passes. Horsemen often wind down by mid-October. We're at the upper edge of season — pack for winter conditions on the trek.
+October framing: Fann valleys 10–15°C days, high camps drop below freezing at night. UZ in its best window (15–25°C days, 10–15°C nights). Travelers are Colorado-based — no kit unfamiliar to either of you.
 
 ## Documents
 - [ ] Passport (6+ months validity, 2+ blank pages)
 - [ ] Printed [[Visas|TJ e-visa]]
 - [ ] Printed flight confirmations
-- [ ] Travel insurance docs (confirm 4000m trekking covered)
+- [ ] Travel insurance docs
 - [ ] Photocopy of passport, kept separate
 - [ ] USD cash in clean bills (see [[Money]])
 - [ ] Two credit/debit cards, kept in separate places
 
-## Trek layer system (Fann)
-The mountaineer's standard 3-layer principle but biased cold:
+## Trek — personal kit only
 
-### Base
-- [ ] 2× merino base layer top (lightweight + midweight)
-- [ ] 1× merino base layer bottom
-- [ ] 4× merino sock pairs
-- [ ] 2× liner sock pairs
-
-### Mid
+### Layers
+- [ ] Merino base layer top (1 lightweight + 1 midweight)
+- [ ] Merino base layer bottom (1)
 - [ ] Fleece or grid fleece
-- [ ] **Down jacket** (not synthetic puffy) — 800-fill, ~6–8 oz down. Synthetic loses warmth/weight tradeoff at our temps.
+- [ ] **Light down jacket** (~800-fill, packable — Cerium LT / Ghost Whisperer class)
+- [ ] Hardshell jacket
+- [ ] Hardshell pants or pit-vented soft shells
+- [ ] Insulated gloves + thin liners
+- [ ] Wool beanie + buff
 
-### Shell
-- [ ] Hardshell jacket (3-layer, hood)
-- [ ] Hardshell pants (or pit-vented soft-shells if budget)
-- [ ] Hardshell mittens or insulated gloves + thin liner gloves
-
-### Accessories
-- [ ] Wool beanie
-- [ ] Buff or balaclava
-- [ ] Sun gloves (for valley-day UV)
-- [ ] Sunglasses, glacier-rated (high UV at 3000m+)
-- [ ] Sun hat with brim
+### Socks
+- [ ] 3× wool hiking socks
+- [ ] 2× liner socks
 
 ### Footwear
-- [ ] Boots: B1 or B2 stiffness mountaineering boots (microspike-compatible). Broken in.
-- [ ] **Microspikes** (Kahtoola or equivalent) — possible early snow on Alaudin Pass
-- [ ] Gaiters — short or full depending on expected snow
-- [ ] Camp shoes (lightweight, for evenings)
+- [ ] Solid trekking boots — broken in, ankle support
+- [ ] Gaiters (short)
+- [ ] **Microspikes** — carry as cheap insurance for the Alaudin Pass if there's been recent snow
+- [ ] Camp shoes (lightweight)
 
-### Sleep + shelter (shared between two)
-- [ ] One **2-person 4-season tent** (better than two 1-persons — warmer, faster setup, lighter total weight)
-- [ ] Two **4-season sleeping bags** (–10°C comfort or lower)
-- [ ] Two sleeping pads (R-value 4+ — R3 not enough on cold ground)
+### Sleep (confirm with operator)
+- [ ] Sleeping bag — **–5°C comfort rating** is enough for our camps (~2800m)
+- [ ] Sleeping pad (R-value 3–4)
+- [ ] Pillow stuff sack or inflatable
 
 ### Pack
-- [ ] 55–65L pack each (horseman carries bulk; carry essentials + summit gear)
-- [ ] Dry bags / compression sacks
-- [ ] Rain cover
+- [ ] **Daypack 25–35L** (you carry layers + water + lunch + camera; horseman carries the rest)
+- [ ] Rain cover or pack liner
 
-### Cook / hydrate
-- [ ] Water filter (Sawyer Squeeze or similar) — streams run clear but graze livestock
-- [ ] Iodine tabs as backup
-- [ ] 2× 1L bottles + 1× 2L bladder each
-- [ ] Stove + canister (buy fuel in Penjikent — can't fly with it)
-- [ ] Pot, mugs, sporks
+### Hydration + sun
+- [ ] 2L bladder + 1L bottle
+- [ ] Sawyer Squeeze or iodine tabs — insurance even with operator water arrangements
+- [ ] SPF 50+, lip balm SPF, glacier sunglasses, brimmed hat
+- [ ] Sun gloves for valley days
 
 ### Trekking poles
-- [ ] One pair each (knees on Alaudin descent)
+- [ ] One pair each — the Alaudin descent earns them
 
 ## City clothes (Dushanbe + UZ)
 Light, modest, packable.
 
 - [ ] 3× lightweight shirts (her: cap-sleeve or longer)
 - [ ] 2× lightweight long pants / trousers
-- [ ] 1× fleece for evenings (10–15°C in Samarkand/Tashkent nights)
-- [ ] 1× lightweight packable rain shell
-- [ ] **Slip-on shoes** (Vans, sandals, anything quick-off) — religious sites = shoes off, you'll do this 10× a day
-- [ ] **Packable scarf for her** — wrap for hair in active mosques (Khast Imam mosque proper, not the madrassas-turned-museums)
+- [ ] 1× fleece for evenings
+- [ ] 1× packable rain shell
+- [ ] **Slip-on shoes** — religious sites = shoes off, you'll do this 10× a day
+- [ ] **Packable scarf for her** — wrap for hair in active mosques (Khast Imam mosque proper)
 - [ ] Sun hat
-- [ ] Swimsuit (Iskanderkul if doing day trip, hotel pools)
+- [ ] Swimsuit (hotel pools, Iskanderkul if doing day trip)
 
 ## Health / hygiene
 See [[Health]] for full medical kit. Quick list:
@@ -91,7 +79,7 @@ See [[Health]] for full medical kit. Quick list:
 - [ ] Ibuprofen, paracetamol, anti-diarrheal
 - [ ] Electrolyte powder (LMNT)
 - [ ] SPF 50+ sunscreen, lip balm SPF
-- [ ] **Tampons / pads — pack from home.** Hard to find in TJ, especially outside Dushanbe.
+- [ ] **Tampons / pads — pack from home.** Limited availability in TJ.
 - [ ] Hand sanitizer, wet wipes
 - [ ] Toilet paper (carry your own — many places don't have it)
 - [ ] Quick-dry towel each
@@ -106,25 +94,31 @@ See [[Health]] for full medical kit. Quick list:
 - [ ] Kindle if you're a reader
 
 ## Misc
-- [ ] Small daypack (for cities + summit pushes)
 - [ ] Travel laundry kit (Dr. Bronner's, sink stopper)
 - [ ] Earplugs + eye mask
 - [ ] Notebook + pen
-- [ ] Small gift items if invited to a home (chocolate, US-branded postcards, etc.)
+- [ ] Small gift items if invited to a home (chocolate, US-branded postcards)
 - [ ] Duct tape (wrapped around poles), zip ties
-- [ ] Tampon / pad supply for trek — bury or pack out, **do not burn in the alpine** (slow decompose, contamination)
 
-## Two-person gear split
-Designate to avoid duplicates:
-- **Mountaineer:** tent, stove + fuel, water filter, first aid kit, inReach
-- **Her:** cook pots, repair kit (duct tape, needle + thread, super glue), TP + sanitation
-- Both carry: bag, pad, personal layers, headlamp, snacks, water, poles
+## Two-person split
+- **Mountaineer carries:** first aid kit, inReach
+- **Her carries:** repair kit (duct tape, needle + thread, super glue), TP + sanitation
+- Everything else is personal
 
 ## What NOT to bring
-- Hairdryer (no time, no power on trek)
+- Cotton anything for the trek
+- B1/B2 mountaineering boots — overkill, trekking boots cover the route
+- Hardshell mittens — insulated gloves + liners is the right level
+- Cookware, stove, water purifier (the chemical kind) — operator handles
 - Heavy jeans
-- Synthetic puffy (use down for the weight/warmth at our temps)
-- Cotton anything for trek
+
+## Scale up only if going self-supported (no operator)
+Add: 2-person 4-season tent · stove + 1 canister · cook pot, mug, spork · 4-season sleeping bag (–10°C) · full food provisioning for 5 days
+
+## Confirm with operator (in quote email)
+- [ ] Tent provided?
+- [ ] Cooking + food provisioning provided, or do we buy and they cook?
+- [ ] Sleeping bag rental available? (some have rentals at $5–10/day if you don't want to fly with one)
 
 ## Cross-references
 [[Health]] · [[SIM & Connectivity]] · [[Kulikalon-Alaudin Loop]] · [[Resources]]
