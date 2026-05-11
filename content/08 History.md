@@ -107,7 +107,7 @@ Why? Several reasons cited by historians:
 - **Murder in Samarkand**, Craig Murray — Karimov-era Uzbekistan from a British ambassador's view
 
 ## Cross-references
-[[05 Food & Culture]] · [[06 Phrases]] · [[Samarkand]] · [[Tashkent]] · [[Penjikent]] · [[Dushanbe]] · [[Resources]]
+[[05 Food & Culture]] · [[06 Phrases]] · [[Samarkand]] · [[Tashkent]] · [[Penjikent]] · [[Dushanbe]] · [[09 Resources]]
 
 ## Sources
 - [Wikipedia: Sogdia](https://en.wikipedia.org/wiki/Sogdia)

@@ -176,4 +176,4 @@ Tajik adds: Ҷ (j), Ҳ (h), Ғ (gh), Қ (q), Ӣ (long ee).
 - Trekking note: GT works without internet once packs are installed
 
 ## Cross-references
-[[05 Food & Culture]] · [[Visas]] · [[Resources]]
+[[05 Food & Culture]] · [[Visas]] · [[09 Resources]]

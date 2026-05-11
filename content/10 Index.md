@@ -37,7 +37,7 @@ tags: [index]
 ### Places (by country, priority)
 ```dataview
 TABLE country, days_needed, priority, elevation_m
-FROM "Tajikistan + Uzbekistan 2026/03 Places"
+FROM "03 Places"
 WHERE type = "place"
 SORT country ASC, priority DESC
 ```
@@ -45,21 +45,21 @@ SORT country ASC, priority DESC
 ### Open logistics
 ```dataview
 TABLE category, country, status
-FROM "Tajikistan + Uzbekistan 2026/01 Logistics"
+FROM "01 Logistics"
 WHERE status = "open"
 ```
 
 ### All open todos
 ```dataview
 TASK
-FROM "Tajikistan + Uzbekistan 2026"
+FROM ""
 WHERE !completed
 ```
 
 ### Trek options
 ```dataview
 TABLE days, max_elevation_m, october_viability, difficulty
-FROM "Tajikistan + Uzbekistan 2026/04 Treks"
+FROM "04 Treks"
 WHERE type = "trek_route"
 SORT max_elevation_m DESC
 ```
@@ -67,7 +67,7 @@ SORT max_elevation_m DESC
 ### Daily spend rollup (fills in as the trip progresses)
 ```dataview
 TABLE date, location, spend_usd, country
-FROM "Tajikistan + Uzbekistan 2026/02 Itinerary"
+FROM "02 Itinerary"
 WHERE type = "day"
 SORT date ASC
 ```
@@ -90,7 +90,7 @@ SORT date ASC
 - [[Kulikalon-Alaudin Loop]] (the plan) · [[Seven Lakes (Haft Kul)]] (backup) · [[Chimtarga Base Camp]] (parked)
 
 ### Reference
-- [[05 Food & Culture]] · [[06 Phrases]] · [[History]] · [[08 Resources]]
+- [[05 Food & Culture]] · [[06 Phrases]] · [[08 History]] · [[09 Resources]]
 
 ---
 

@@ -60,4 +60,4 @@ As of **January 1, 2026**, US citizens get **30 days visa-free** entry to Uzbeki
 - **Kyzyl-Art** (TJ → Kyrgyzstan, Osh) — Pamir-only exit
 
 ## Cross-references
-[[Flights]] · [[Health]] · [[Resources]]
+[[Flights]] · [[Health]] · [[09 Resources]]

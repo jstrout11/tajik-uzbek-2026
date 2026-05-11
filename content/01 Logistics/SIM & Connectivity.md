@@ -60,8 +60,8 @@ tags: [logistics]
 - [ ] Buy Airalo eSIM, save activation QR
 - [ ] Confirm Garmin inReach subscription active, batteries fresh
 - [ ] Test inReach SOS messaging (free test message to self)
-- [ ] Download offline maps — see [[Resources]]
+- [ ] Download offline maps — see [[09 Resources]]
 - [ ] Download Yandex Go app and add card before arrival (works for taxis in DYU and TAS)
 
 ## Cross-references
-[[Money]] · [[Packing]] · [[Resources]]
+[[Money]] · [[Packing]] · [[09 Resources]]

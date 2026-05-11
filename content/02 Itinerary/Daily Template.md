@@ -11,7 +11,7 @@ tags: [day]
 
 # 2026-10-DD — <location>
 
-> Copy this file, rename to `YYYY-MM-DD.md`, fill frontmatter and body. The frontmatter feeds the [[09 Index|Index]] dashboard.
+> Copy this file, rename to `YYYY-MM-DD.md`, fill frontmatter and body. The frontmatter feeds the [[10 Index|Index]] dashboard.
 
 ## Plan (set the night before)
 - 

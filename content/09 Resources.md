@@ -110,4 +110,4 @@ Worth reading before you leave:
 - [ ] Print backup copies: passport, e-visa, flight confirmations, insurance summary
 
 ## Cross-references
-[[09 Index]] · [[Visas]] · [[Health]] · [[Kulikalon-Alaudin Loop]]
+[[10 Index]] · [[Visas]] · [[Health]] · [[Kulikalon-Alaudin Loop]]

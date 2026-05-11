@@ -121,4 +121,4 @@ Add: 2-person 4-season tent · stove + 1 canister · cook pot, mug, spork · 4-s
 - [ ] Sleeping bag rental available? (some have rentals at $5–10/day if you don't want to fly with one)
 
 ## Cross-references
-[[Health]] · [[SIM & Connectivity]] · [[Kulikalon-Alaudin Loop]] · [[Resources]]
+[[Health]] · [[SIM & Connectivity]] · [[Kulikalon-Alaudin Loop]] · [[09 Resources]]

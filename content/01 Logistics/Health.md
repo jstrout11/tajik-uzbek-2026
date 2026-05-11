@@ -93,4 +93,4 @@ Frostbite risk on Alaudin Pass if windbound or snowing. Standard prevention: mit
 Even with precautions, expect 1–2 days of mild GI from one or both of you. Build into trek schedule (Day 9 buffer post-trek covers this).
 
 ## Cross-references
-[[Packing]] · [[Money]] · [[Kulikalon-Alaudin Loop]] · [[Resources]]
+[[Packing]] · [[Money]] · [[Kulikalon-Alaudin Loop]] · [[09 Resources]]
