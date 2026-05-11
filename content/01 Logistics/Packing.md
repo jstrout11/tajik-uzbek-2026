@@ -87,7 +87,6 @@ Light, modest, packable.
 
 ## Health / hygiene
 See [[Health]] for full medical kit. Quick list:
-- [ ] Diamox (altitude — start prophylactic 2 days before Anzob Pass)
 - [ ] Cipro / azithromycin (GI backup, doctor's call)
 - [ ] Ibuprofen, paracetamol, anti-diarrheal
 - [ ] Electrolyte powder (LMNT)

@@ -41,11 +41,11 @@ The Alaudin Pass elevation (3860m) sits below the typical first-snow line for mi
 - Trail: well-marked, gradual climb through juniper forest then alpine meadow, switchbacks to pass
 - Camp: above Bibijonat Lake or main Kulikalon Lake at ~2800m
 
-### Day 2 (Trek Day 2, itinerary Day 6) — **rest / acclimatize**
+### Day 2 (Trek Day 2, itinerary Day 6) — **exploration day**
 **Day around Kulikalon Lakes**
 - Side hike to **Mutnoe Lakes** or upper basin (gain 200–400m and return)
 - Photograph the lake-and-spire setup
-- **Acclimatization is the point** — Alaudin Pass is tomorrow at 3860m
+- Easy day before Alaudin Pass tomorrow
 - Camp: same site
 
 ### Day 3 (Trek Day 3, itinerary Day 7) — **the big day**
@@ -207,7 +207,6 @@ A 2024+ positive review is the gate. A vendor with no recent reviews is a yellow
 - [ ] Lock in horseman + pickup/dropoff vehicles, ~6 weeks before
 - [ ] Confirm microspikes packed
 - [ ] Download GPX track on phone, save offline
-- [ ] Brief partner on AMS symptoms and pass-day pacing
 - [ ] Weather forecast check the week of Day 4 — confirm Alaudin pass-day window
 
 ## Cross-references

@@ -11,7 +11,7 @@ tags: [itinerary]
 # Itinerary Overview — 14-day skeleton, TJ first
 
 > [!info] Booked vs. plan
-> Booking gives us **16 calendar days** (DYU 01:00 Oct 3 → TAS 09:35 Oct 18). The 14-day skeleton below leaves **2 buffer days** — slot them as a Hissar Fortress half-day (Day 2.5), an extra acclimatization day in Penjikent, an extra Samarkand night, or a contingency for weather/border/GI delays. Don't burn them up front.
+> Booking gives us **16 calendar days** (DYU 01:00 Oct 3 → TAS 09:35 Oct 18). The 14-day skeleton below leaves **2 buffer days** — slot them as a Hissar Fortress half-day (Day 2.5), an extra Samarkand night, or a contingency for weather/border/GI delays. Don't burn them up front.
 
 > [!tip] Why TJ-first
 > October Fann is at the edge of season. Trekking Days 4–8 (Oct 6–10) catches the **last reliable weather window** before snow starts closing high passes. UZ in mid-October is in its **best window** — 15–25°C days, harvest in the bazaars, fewer crowds. The reverse order would put the trek in late October, gambling on snow.
@@ -27,16 +27,16 @@ Land DYU 01:00. Sleep in. Light wander Rudaki Park, lunch nearby, finalize trek 
 National Museum of Antiquities (Sleeping Buddha), Mehrgon Bazaar, dinner at a qurutob place. Hit ATM for trek cash.
 
 **Day 3 — Mon Oct 5 — DYU → [[Penjikent]]** (sleep: Penjikent)
-Shared taxi over **Anzob Pass (3372m)** — 5–6h, useful altitude preview. Arrive Penjikent afternoon. Sogdian ruins if time.
+Shared taxi over **Anzob Pass (3372m)** — 5–6h, scenic mountain road. Arrive Penjikent afternoon. Sogdian ruins if time.
 
 **Day 4 — Tue Oct 6 — Penjikent → [[Artush and Pasrud]]** (sleep: Artuch alplager or camp)
-Provision food at Penjikent bazaar AM. Drive to Artuch Alplager (~2200m). Meet horseman, acclimatization stroll.
+Provision food at Penjikent bazaar AM. Drive to Artuch Alplager (~2200m). Meet horseman, leg-stretcher walk up-valley before dinner.
 
 **Day 5 — Wed Oct 7 — Trek Day 1** (sleep: Kulikalon camp)
 Chukurak Valley → Chukurak Pass (3180m) → Kulikalon Lakes (~2800m).
 
 **Day 6 — Thu Oct 8 — Trek Day 2** (sleep: Kulikalon camp)
-Rest / exploration day around Kulikalon Lakes. Side hike to Mutnoe or upper basins. Acclimatization.
+Rest / exploration day around Kulikalon Lakes. Side hike to Mutnoe or upper basins.
 
 **Day 7 — Fri Oct 9 — Trek Day 3** (sleep: Alaudin Lakes camp)
 **Alaudin Pass (3860m)** crossing → Alaudin Lakes (~2800m). High day.

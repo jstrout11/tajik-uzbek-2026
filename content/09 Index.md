@@ -102,7 +102,6 @@ SORT date ASC
 - [ ] Decide: independent trek with hired horseman vs. supported guided trek (~$50–80/day extra for guide)
 - [ ] Reserve [Hotel Umariyon](https://www.booking.com/hotel/tj/umarion.html) in Penjikent for Day 3 and Day 9
 - [ ] Decide: shared taxi vs. private hire Dushanbe → Penjikent (Anzob Pass)
-- [ ] Vaccinations appointment: Hep A booster, typhoid — 6 weeks before
 - [ ] Confirm travel insurance covers trekking to 4000m
 - [ ] Buy/borrow microspikes — only needed if shoulder-season snow hits passes
 - [ ] Identify whether to do Hissar Fortress half-day from Dushanbe (extra Day 2 option)

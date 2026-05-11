@@ -84,8 +84,8 @@ Three approaches:
 1. AM: provision food in Penjikent
 2. Midday: drive Penjikent → Artuch (1.5–2h)
 3. Afternoon: arrive Artuch, meet horseman, organize loads
-4. **Acclimatization stroll** — 1–2 hours up valley toward Chukurak. **Don't gain more than 300m elevation.** Return for dinner.
-5. Sleep alplager dorm or tent — first night at 2200m
+4. **Leg-stretcher walk** — 1–2 hours up valley toward Chukurak before dinner.
+5. Sleep alplager dorm or tent at 2200m
 
 ## What's nearby (off-itinerary)
 - [[Iskanderkul]] is in the same Fann complex but eastern side — separate trailhead system, not accessible by foot from Artuch in our timeframe

@@ -16,10 +16,9 @@ USD per **person** unless noted. Two travelers; trek economics work better split
 |---|---:|
 | Flights (already booked, TK economy, est.) | [flights_per_person:: 1500] |
 | TJ e-visa (no GBAO) | [tj_visa:: 30] |
-| Travel insurance (3 wk, altitude-covered) | [insurance:: 175] |
-| Vaccinations (Hep A + typhoid boosters etc) | [vaccinations:: 200] |
+| Travel insurance (3 wk, trekking-covered) | [insurance:: 175] |
 | Gear gaps (microspikes if needed, etc) | [gear:: 150] |
-| **Pre-trip subtotal** | **2055** |
+| **Pre-trip subtotal** | **1855** |
 
 ## On-the-ground daily ballparks (per person)
 
@@ -123,10 +122,10 @@ Day totals break down as lodging + food + transport + activities — see the lin
 | Bucket | Per person USD |
 |---|---:|
 | On-the-ground (14 days) | ~$850 |
-| Pre-trip excluding flights | ~$555 |
-| **Per person, excluding international flights** | **~$1,400** |
+| Pre-trip excluding flights | ~$355 |
+| **Per person, excluding international flights** | **~$1,200** |
 | International flights (already booked) | ~$1,500 |
-| **All-in per person** | **~$2,900** |
+| **All-in per person** | **~$2,700** |
 
 ## Sanity checks
 - Trek days run **$50–55** — cheap on lodging, but the horseman share inflates it
